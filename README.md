@@ -11,9 +11,9 @@ A SQL project exploring what skills matter most for Data Scientist jobs in the U
 - Goal: find out which skills are in demand, which pay well, and which are most tied to top-paying jobs
 
 **Files:**
-1. [`01_top_demanded_skills.sql`](./01_top_demanded_skills.sql) – most requested skills
-2. [`02_skill_demand_vs_compensation.sql`](./02_skill_demand_vs_compensation.sql) – demand vs. salary
-3. [`03_high_paying_skill.sql`](./03_high_paying_skill.sql) – skills tied to the highest-paying jobs
+1. [`01_top_demanded_skills.sql`](./sql/01_top_demanded_skills.sql) – most requested skills
+2. [`02_skill_demand_vs_compensation.sql`](./sql/02_skill_demand_vs_compensation.sql) – demand vs. salary
+3. [`03_high_paying_skill.sql`](./sql/03_high_paying_skill.sql) – skills tied to the highest-paying jobs
 
 ```text
 1_EDA/
