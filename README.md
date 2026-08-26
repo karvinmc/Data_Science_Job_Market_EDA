@@ -17,13 +17,14 @@ A SQL project exploring what skills matter most for Data Scientist jobs in the U
 
 ```text
 1_EDA/
-├── 01_top_demanded_skills.sql
-├── 02_skill_demand_vs_compensation.sql
-├── 03_high_paying_skill.sql
 ├── images/
 │   ├── demand_vs_compensation.png
 │   ├── high_paying_skill_lift.png 
 │   └── top_demanded_skills.png
+│   sql/
+│   ├── 01_top_demanded_skills.sql
+│   ├── 02_skill_demand_vs_compensation.sql
+│   └── 03_high_paying_skill.sql
 └── README.md
 ```
 
