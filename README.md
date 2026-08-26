@@ -36,7 +36,9 @@ A SQL project exploring what skills matter most for Data Scientist jobs in the U
 2. **Do popular skills also pay well** — or is there a trade-off?
 3. **Which skills are most tied to high-paying jobs specifically** — not just common everywhere, but a signal of premium pay?
 
-**Data model:** star schema with one fact table (`job_postings_fact`) and two supporting tables (`skills_dim`, `skills_job_dim`) linking jobs to skills.
+**Data model:** star schema with one fact table (`job_postings_fact`) and two supporting tables (`skills_dim`, `skills_job_dim`) linking jobs to skills. 
+
+Database sourced from Luke Barousse's [SQL Data Engineering Course](https://github.com/lukebarousse/SQL_Data_Engineering_Course).
 
 ---
 
