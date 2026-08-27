@@ -1,6 +1,6 @@
 # 🔍 SQL EDA: Data Scientist Job Market Analysis (US)
 
-A SQL project exploring what skills matter most for Data Scientist jobs in the United States.
+SQL project exploring what skills matter most for Data Scientist jobs in the United States.
 
 ---
 
